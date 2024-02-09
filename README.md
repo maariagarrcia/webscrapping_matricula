@@ -4,7 +4,7 @@ Matricula: C047057-R
 
 Marca: SUSUKI
 
-Modelo:S=5617
+Modelo: S5617
 
 fecha=viernes 18 de agosto de 2017
 
